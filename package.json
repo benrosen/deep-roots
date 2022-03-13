@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "name": "deep-roots",
+  "scripts": {
+    "start": "yarn ts-node main.ts"
+  },
+  "version": "0.0.1"
+}
